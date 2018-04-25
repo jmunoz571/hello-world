@@ -1,11 +1,3 @@
-/*
- * Usage of CDK Matrix
- *
- * File:   example1.cc
- * Author: Stephen Perkins
- * Email:  stephen.perkins@utdallas.edu
- */
-
 #include <iostream>
 #include "cdk.h"
 
